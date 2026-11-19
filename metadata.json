@@ -1,0 +1,6 @@
+{
+  "name": "Huygens Refraction Lab",
+  "description": "Interactive Huygens' principle wavefront simulation and Snell's law derivation studio paired with STAG LAB's high school physics lesson.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
